@@ -1,0 +1,46 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+header {
+  margin-left: 40rem;
+  margin-top: 2rem;
+}
+
+body {
+
+  background: rgb(131, 58, 180);
+  background: linear-gradient(90deg, rgba(131, 58, 180, 1) 0%, rgba(253, 29, 29, 1) 50%, rgba(252, 176, 69, 1) 100%);
+}
+
+
+
+
+#basic-form {
+  border: 2px solid;
+  height: 25rem;
+  width: 15rem;
+  margin-left: 40rem;
+  margin-top: 3rem;
+  border-radius: 8px;
+  background-color: rgba(0, 0, 0, 0.3);
+  color: white;
+
+}
+
+.info {
+  padding-top: 15px;
+  margin-left: 1rem;
+}
+
+#submit-button {
+  height: 30px;
+  width: 70px;
+  font-size: large;
+  margin-left: 5rem;
+  margin-top: 2.4rem;
+  cursor: pointer;
+  border-radius: 5px;
+}
